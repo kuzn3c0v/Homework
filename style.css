@@ -1,0 +1,28 @@
+body{
+    width: auto;
+    margin: 110px;
+    text-indent: 20px;
+    word-wrap: break-word;
+
+}
+#header{
+    text-align:  center;
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 800;
+    margin-bottom: 50px;
+
+}
+.bold{
+    font-weight: 800;
+}
+.text{
+    padding-left: 10px;
+}
+#img{
+    float: right;
+}
+
+li{
+    margin-bottom: 15px;
+}
