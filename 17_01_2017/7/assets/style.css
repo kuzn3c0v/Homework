@@ -1,0 +1,22 @@
+.uploadForm {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1.5%;
+    text-align: center;
+}
+#alerts{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#url{
+    text-align: center;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+li{
+    text-decoration: underline;
+}

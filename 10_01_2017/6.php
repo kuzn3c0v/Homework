@@ -12,7 +12,7 @@ function quadratic ($a1, $b1, $c1){
         return ("error");
     }
 
-    $d = ($b1 * $b1) - (4 *$a1 * $c1);
+    $d = ($b1 ** 2) - (4 *$a1 * $c1);
 
     if ($d > 0){
         $x1 = (- $b1 + sqrt($d)) / (2 * $a1);
