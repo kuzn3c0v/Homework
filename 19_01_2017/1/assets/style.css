@@ -1,0 +1,21 @@
+#indexForm{
+    background-color: #a1c0bf;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+
+}
+
+.hello{
+    background-color: #a1c0bf;
+    text-align: center;
+    height: 23%;
+    width: 100%;
+}
+
+#alertMessage{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

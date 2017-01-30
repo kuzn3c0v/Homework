@@ -1,0 +1,47 @@
+#loginForm{
+    margin-top: 5%;
+    margin-left: 20%;
+}
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {height: 470px}
+
+/* Set black background color, white text and some padding */
+footer {
+    background-color: #555;
+    color: white;
+    padding: 15px;
+}
+
+/* Set gray background color and 100% height */
+.sidenav {
+    padding-top: 20px;
+    background-color: #f1f1f1;
+    height: 100%;
+}
+
+#navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+#alert{
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+}
+
+#clearButton{
+    background-color: black;
+}
+#clearButton:hover{
+    color: silver;
+}
+.clear{
+    text-align: center;
+}
+.uploadForm{
+    text-align: center;
+    margin-top: 2%;
+}
